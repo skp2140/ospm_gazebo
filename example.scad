@@ -1,2 +1,2 @@
-include <ospm_gazebo.scad>
+include <index.scad>
 Gazebo();
